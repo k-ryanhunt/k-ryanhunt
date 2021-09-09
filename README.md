@@ -1,1 +1,1 @@
-![screenshot](KelseaHunt-pdf.png)
+![screenshot](welcome.png)
